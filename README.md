@@ -1,1 +1,1 @@
-This repository contains Power BI dashboards prepared by me
+This repository contains Power BI/Tableau dashboards prepared by me
